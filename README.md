@@ -9,4 +9,5 @@ ou de Google Colab
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nshaud/liesse/blob/main/)
 
+![QR code](qr-code.png)
 
