@@ -2,7 +2,7 @@ matplotlib
 numpy
 torch>=2.0
 torchvision
-torchgeo~=0.7.1
+torchgeo>=0.7.1
 scikit-learn
 tqdm
 ipywidgets
