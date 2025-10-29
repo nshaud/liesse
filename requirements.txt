@@ -5,3 +5,4 @@ torchvision
 torchgeo~=0.7.1
 scikit-learn
 tqdm
+ipywidgets
