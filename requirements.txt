@@ -1,7 +1,7 @@
 matplotlib
 numpy
-torch
+torch>=2.0
 torchvision
-torchgeo
+torchgeo~=0.7.1
 scikit-learn
 tqdm
